@@ -1,0 +1,57 @@
+
+
+body{
+  background-repeat: no-repeat;
+}
+ div{
+		display: inline-block;
+}
+}
+
+.price-holder span{
+			background-color: blue;
+			font-size: 20px;
+      display: block;padding: 6px 15px;
+      position: relative;
+
+}
+
+		
+.img-holder {
+    position: relative;
+
+    		
+}
+.write{
+	position: absolute;
+	color: black;
+  top: 80px;
+  left: 130px;
+  
+}
+.write1{
+  position: absolute;
+  color: white;
+  top: 150px;
+  left: 130px;
+}
+.title{
+		padding: 3px;
+}
+.img-holder span {
+    position: absolute;
+    left: 10px;
+    top:  15px;
+}
+.i-border{
+	
+  
+	width: 350px;
+  transition: 1s ease;
+
+}
+.i-border:hover{
+  transform: scale(1.1);
+  transition: 1s ease;
+  
+}
